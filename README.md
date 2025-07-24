@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working as **Data Analyst** at [MEA Platform Technologies Pvt. Ltd.](https://www.linkedin.com/company/mea-platform-tech/)
+- 🔭 I’m currently working as **Data Analyst** at [MEA Platform Technologies Pvt. Ltd.](https://www.meaplatform.com/)
 - 🎓 Pursuing **M.Tech. in Artificial Intelligence & Data Science Engineering** from **IIT Patna**
 - 💡 Former **Executive - Data Analytics** at Syna Group of Companies
 - 🎯 Focused on solving real-world problems using Data Science, ML, and Deep Learning
@@ -11,7 +11,7 @@
 - 👨‍💻 I regularly work with `Python`, `Pandas`, `Scikit-learn`, `SQL`, `Power BI`, `TensorFlow`, `PyTorch`
 - 🧪 Interested in **AI Research**, especially **Emotion Recognition**, **NLP**, and **Geospatial Data Processing**
 - 📫 Connect with me on:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik1442840127)](https://www.linkedin.com/in/ritik1442840127)  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik1442840127)](https://www.linkedin.com/in/ritik-tiwari/)  
   📧 Email: `tiwariritik9936@gmail.com`
 
 ---
